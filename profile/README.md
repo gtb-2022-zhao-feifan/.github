@@ -4,11 +4,11 @@
 
 Without more words, here is a photo of my big head. When I was young, there was nothing else but my head was very big.
 
-<img src = "./大头照.jpg" style = "zoom:30%">
+<img src = "./大头照.jpg" alt = "young" width = "30%" />
 
 Here is my appearance now:
 
-<img src = "./证件照.jpg" style = "zoom:8%">
+<img src = "./证件照.jpg" alt = "me-now" width = "30%" />
 
 
 >Hello everyone, this is me, Zhao Feifan. I am optimistic, cheerful, approachable, live regularly and love doing sports.
