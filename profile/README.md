@@ -99,11 +99,11 @@ Here is my appearance now:
 
 ## 1. Nanjing Science and Technology Museum Volunteer    06/2018
 
-## 2. Nanjing University Love Bookstore Volunteers	      03/2017-05/2018
+## 2. Nanjing University Love Bookstore Volunteers       03/2017-05/2018
 
-## 3. The new village supports education, providing math English tutoring for children from poor families	                     03/2017-06/2017
+## 3. The new village supports education, providing math English tutoring for children from poor families                          03/2017-06/2017
 
-## 4. Charity 100 fund-raising activity (initiated by China Foundation for Poverty Alleviation)	                              09/2016-12/2016
+## 4. Charity 100 fund-raising activity (initiated by China Foundation for Poverty Alleviation)                                     09/2016-12/2016
 
 <space><space>
 
@@ -127,7 +127,7 @@ Here is my appearance now:
 
 ---
 
-## 1. Computer skills:	C, MATLAB, Cplex, LaTex; R, Python, SAS
+## 1. Computer skills: C, MATLAB, Cplex, LaTex; R, Python, SAS
 
 ## 2. Hobbies: Rubik's cube -20s, playing badminton, swimming and reading.
 
