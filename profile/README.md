@@ -4,7 +4,7 @@
 
 Without more words, here is a photo of my big head. When I was young, there was nothing else but my head was very big.
 
-<img src = "./大头照.jpg" style = "zoom:30%">
+![大头照](https://user-images.githubusercontent.com/37332053/156912011-98c031de-3d51-4fb1-b582-8a585b0767c8.jpg)
 
 Here is my appearance now:
 
